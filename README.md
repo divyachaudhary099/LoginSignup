@@ -1,5 +1,6 @@
 # LoginSignup
-
+In this page we use local storage for signup and login 
+URL : https://login-signup-flame.vercel.app/user
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.2.6.
 
 ## Development server
